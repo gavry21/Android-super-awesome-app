@@ -1,0 +1,24 @@
+{
+	"data" : [
+		{
+			"id" : 1,
+			"name" : "Naruto",
+			"address" : "ул. Ставропольская, д. 143, кв. 145",
+			"order" : "Ramen, Sushi"
+
+
+		},
+		{
+			"id" : 2,
+			"name" : "Sasuke",
+			"address" : "Konoha",
+			"order" : "Vengeance"
+		},
+		{
+			"id" : 3,
+			"name" : "Sakura",
+			"address" : "Konoha",
+			"order" : "Love"
+		}
+	]
+}
